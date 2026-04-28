@@ -1,0 +1,33 @@
+# ENVIRONNEMENT VIRTUEL
+myenv/
+venv/
+env/
+.venv/
+
+# PYTHON
+__pycache__/
+*.pyc
+
+# DATASETS
+data/
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# MODELS
+*.pkl
+
+# LOGS
+*.log
+
+# JUPYTER
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
