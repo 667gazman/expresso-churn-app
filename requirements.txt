@@ -5,3 +5,4 @@ streamlit
 joblib
 ydata-profiling
 streamlit-pandas-profiling
+setuptools
