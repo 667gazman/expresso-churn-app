@@ -11,6 +11,7 @@ import sys
 import os
 from ydata_profiling import ProfileReport   # ou data_profiling si tu as migré
 from streamlit_pandas_profiling import st_profile_report
+import pkg_resources
 
 # Ajouter src au path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
